@@ -1,0 +1,11 @@
+#!/bin/bash
+
+PAGE=$(curl -sL "https://alcasar.laplateforme.io/intercept.php" 2>&1)
+CHALLENGE=$(echo "$PAGE" | grep -Po 'name="challenge" value="\K[^"]+')
+USERURL=$(echo "$PAGE" | grep -Po 'name="userurl" value="\K[^"]+')
+
+curl -sL -d "challenge=$CHALLENGE&userurl=$USERURL&username=$1&password=$2&button=Authentication" "https://alcasar.laplateforme.io/intercept.php" > /dev/null
+
+sleep 1
+
+curl -sk "https://alcasar.laplateforme.io:3991/json/status?callback=x&0.$RANDOM" | grep -q '"clientState":1' && echo "Connecté !" || echo "Échec"
