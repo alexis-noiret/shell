@@ -1,15 +1,15 @@
-# Script Shell - Automatisation & Administration Linux
+# 🐚 Script Shell - Automatisation & Administration Linux
 
 ![Bash](https://img.shields.io/badge/Shell-Bash-black)
 ![Linux](https://img.shields.io/badge/OS-Linux-blue)
 ![Domain](https://img.shields.io/badge/Domain-System%20Administration-red)
 ![Level](https://img.shields.io/badge/Level-Intermediate-orange)
 
-Script shell permettant d’automatiser des tâches système sous Linux, illustrant des compétences en **administration système**, **scripting** et **automatisation**.
+> Script shell permettant d’automatiser des tâches système sous Linux, illustrant des compétences en **administration système**, **scripting** et **automatisation**.
 
 ---
 
-## Résumé exécutif
+## 📋 Présentation
 
 Développement d’un script Bash visant à automatiser des opérations courantes d’administration système (gestion de fichiers, utilisateurs, processus ou services selon le script).
 
@@ -17,7 +17,7 @@ Objectif : démontrer la capacité à **industrialiser des tâches**, améliorer
 
 ---
 
-## Périmètre technique
+## 🧩 Périmètre technique
 
 * OS : Linux
 * Langage : Bash
@@ -26,7 +26,7 @@ Objectif : démontrer la capacité à **industrialiser des tâches**, améliorer
 
 ---
 
-## Réalisations clés
+## ✅ Réalisations clés
 
 * Création d’un script shell fonctionnel
 * Utilisation de commandes système Linux
@@ -37,7 +37,7 @@ Objectif : démontrer la capacité à **industrialiser des tâches**, améliorer
 
 ---
 
-## Fonctionnalités
+## ⚙️ Fonctionnalités
 
 Selon le contenu du script :
 
@@ -49,7 +49,7 @@ Selon le contenu du script :
 
 ---
 
-## Exemple d’utilisation
+## 🔧 Exemple d’utilisation
 
 Exécution du script :
 
@@ -66,7 +66,7 @@ Avec arguments :
 
 ---
 
-## Exemple de structure Bash
+## 🔧 Exemple de structure Bash
 
 ```bash
 #!/bin/bash
@@ -80,7 +80,7 @@ fi
 
 ---
 
-## Compétences démontrées
+## 🧠 Compétences démontrées
 
 * Scripting Bash
 * Administration système Linux
@@ -91,7 +91,7 @@ fi
 
 ---
 
-## Tests et validation
+## 🧪 Tests et validation
 
 * Exécution du script
 * Vérification des sorties
@@ -100,7 +100,7 @@ fi
 
 ---
 
-## Limites
+## ⚠️ Limites
 
 * Script dépendant de l’environnement Linux
 * Gestion des erreurs limitée
@@ -108,7 +108,7 @@ fi
 
 ---
 
-## Perspectives d’amélioration
+## 🔭 Perspectives d’amélioration
 
 * Gestion avancée des erreurs
 * Ajout de logs
@@ -118,7 +118,7 @@ fi
 
 ---
 
-## Valeur professionnelle
+## 💼 Valeur professionnelle
 
 Ce projet démontre la capacité à :
 
@@ -129,7 +129,7 @@ Ce projet démontre la capacité à :
 
 ---
 
-## Structure du projet
+## 📁 Structure du dépôt
 
 ```text
 .
@@ -140,7 +140,7 @@ Ce projet démontre la capacité à :
 
 ---
 
-## Documentation
+## 📖 Documentation
 
 La vidéo `shell.mp4` montre :
 
@@ -150,7 +150,9 @@ La vidéo `shell.mp4` montre :
 
 ---
 
-## Auteur
+## 👤 Auteur
 
-Alexis Noiret
-Étudiant en cybersécurité
+**Alexis Noiret** — Bachelor IT Cybersécurité, La Plateforme
+
+- Portfolio : [alexis-noiret.students-laplateforme.io](https://alexis-noiret.students-laplateforme.io)
+- GitHub : [github.com/alexis-noiret](https://github.com/alexis-noiret)
